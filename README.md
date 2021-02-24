@@ -7,7 +7,7 @@
 ***
 
 ## Information about me 💻
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=BaggyGishev&show_icons=true&theme=radical">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=BaggyGishev&show_icons=true&text_color=e7d9ea&title_color=11698e&icon_color=16c79a&theme=dark">
 
 ### > My Socials, where you can reach me:
 [<img align="left" width="35px" alt="Twitter" src="https://raw.githubusercontent.com/BaggyGishev/BaggyGishev/93abb35427424eda6f62fb9bd866dcd2102b1866/Images/twitter.svg">](https://twitter.com/BaggyGishev)
