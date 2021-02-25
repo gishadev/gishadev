@@ -1,12 +1,18 @@
-## Hi there, nice to meet you! 👋
+## Hi, nice to meet you! 👋
 
 <a href="https://github.com/BaggyGishev">
 <img align="center" src="https://raw.githubusercontent.com/BaggyGishev/BaggyGishev/main/Images/preview.png">
 </a>
 
-***
-
-## Information about me 💻
+## 💻 Information about me 
+<p align="left">
+  <a href="https://github.com/BaggyGishev/BaggyGishev">
+   <img src="https://komarev.com/ghpvc/?username=BaggyGishev" alt="Page Views" />
+  </a>
+  <a href="https://twitter.com/BaggyGishev">
+    <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/BaggyGishev?color=green&label=Follow&logo=twitter&logoColor=blue&style=flat-square">
+  </a>
+ </p>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=BaggyGishev&show_icons=true&text_color=e7d9ea&title_color=11698e&icon_color=16c79a&theme=dark">
 
 ### > My Socials, where you can reach me:
