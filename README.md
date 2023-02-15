@@ -8,7 +8,12 @@
 </div>
 
 <h2 align="center">💻 Information about me</h2>
-<p align="center">
+
+- 👨‍💻 All of my projects are available at [gishadev.com](https://gishadev.com)
+- 📫 Reach me via email **b.tsaplia@gmail.com**
+- 📄 Know about my experiences [resume](https://gishadev.com/files/resume.pdf)
+
+<p align="left">
   <a href="https://github.com/gishadev/gishadev">
    <img src="https://komarev.com/ghpvc/?username=gishadev" alt="Page Views" />
   </a>
@@ -16,14 +21,9 @@
     <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/BaggyGishev?color=green&label=Follow&logo=twitter&logoColor=blue&style=flat-square">
   </a>
  </p>
-<div align="center">
+<div align="left">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=gishadev&show_icons=true&text_color=e7d9ea&title_color=11698e&icon_color=16c79a&theme=dark">
 </div>
-
-
-- 👨‍💻 All of my projects are available at [gishadev.com](https://gishadev.com)
-- 📫 Reach me via email **b.tsaplia@gmail.com**
-- 📄 Know about my experiences [resume](https://gishadev.com/files/resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
