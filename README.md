@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [gishadev.com](https://gishadev.com)
 - 📫 Reach me via email **b.tsaplia@gmail.com**
-- 📄 Know about my experiences [resume](https://gishadev.com/files/resume.pdf)
+- 📄 Know about my experiences in [resume](https://gishadev.com/files/resume.pdf)
 
 <p align="left">
   <a href="https://github.com/gishadev/gishadev">
