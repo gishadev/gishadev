@@ -9,7 +9,8 @@
 
 <h2 align="center">💻 Information about me</h2>
 
-- 👨‍💻 All of my projects are available at [gishadev.com](https://gishadev.com)
+- 📙 My personal website [gishadev.com](https://gishadev.com)
+- 👨‍💻 All of my projects are available at [gisha.itch.io](https://gisha.itch.io/)
 - 📫 Reach me via email **b.tsaplia@gmail.com**
 - 📄 Know about my experiences in [resume](https://gishadev.com/files/resume.pdf)
 
