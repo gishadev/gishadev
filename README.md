@@ -24,7 +24,7 @@
   </a>
  </p>
 <div align="left">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=gishadev&show_icons=true&text_color=e7d9ea&title_color=11698e&icon_color=16c79a&theme=dark">
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gishadev&theme=github-dark-dimmed&custom_title=gishadev%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </div>
 
 <h3 align="left">Connect with me:</h3>
