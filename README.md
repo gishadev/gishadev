@@ -15,15 +15,6 @@
 - 📫 Reach me via email **me@gishadev.com**
 - 📄 Know about my experiences in [resume](https://gishadev.com/files/resume.pdf)
 
-<p align="left">
-  <a href="https://github.com/gishadev/gishadev">
-   <img src="https://komarev.com/ghpvc/?username=gishadev" alt="Page Views" />
-  </a>
-  <a href="https://twitter.com/BaggyGishev">
-    <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/BaggyGishev?color=green&label=Follow&logo=twitter&logoColor=blue&style=flat-square">
-  </a>
- </p>
-
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/gist?id=726d82c8ffd474af5dae2fe142700bd0&theme=tokyonight&show_icons=true&hide_border=true">
 <img src="https://github-readme-stats.vercel.app/api/gist?id=726d82c8ffd474af5dae2fe142700bd0&theme=tokyonight&show_icons=true&hide_border=true">
