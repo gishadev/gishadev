@@ -23,8 +23,19 @@
     <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/BaggyGishev?color=green&label=Follow&logo=twitter&logoColor=blue&style=flat-square">
   </a>
  </p>
-<div align="left">
-![gishadev's Stats](https://github-readme-stats.vercel.app/api?username=gishadev&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/gist?id=726d82c8ffd474af5dae2fe142700bd0&theme=github-dark-dimmed&show_icons=true&hide_border=true">
+<img src="https://github-readme-stats.vercel.app/api/gist?id=726d82c8ffd474af5dae2fe142700bd0&theme=github-dark-dimmed&show_icons=true&hide_border=true">
+</div>
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=gishadev&theme=github-dark-dimmed&show_icons=true&hide_border=true&count_private=true">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=gishadev&theme=github-dark-dimmed&hide_border=true">
+</div>
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gishadev&theme=github-dark-dimmed&custom_title=gishadev%20Activity%20Graph&hide_border=true">
 </div>
 
 <h3 align="left">Connect with me:</h3>
