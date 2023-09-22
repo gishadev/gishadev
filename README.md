@@ -24,7 +24,7 @@
   </a>
  </p>
 <div align="left">
-[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gishadev&theme=github-dark-dimmed&custom_title=gishadev%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![gishadev's Stats](https://github-readme-stats.vercel.app/api?username=gishadev&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 </div>
 
 <h3 align="left">Connect with me:</h3>
