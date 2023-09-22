@@ -1,5 +1,4 @@
 <h1 align="center">Hey👋, I'm Bohdan Tsaplia</h1>
-<h3 align="center">Game developer & Generalist<h3>
 
 <div align="center">
 <a href="https://github.com/gishadev">
