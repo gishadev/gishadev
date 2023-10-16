@@ -15,11 +15,6 @@
 - 📄 Know about my experiences in [resume](https://gishadev.com/files/resume.pdf)
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/gist?id=726d82c8ffd474af5dae2fe142700bd0&theme=tokyonight&show_icons=true&hide_border=true">
-<img src="https://github-readme-stats.vercel.app/api/gist?id=726d82c8ffd474af5dae2fe142700bd0&theme=tokyonight&show_icons=true&hide_border=true">
-</div>
-
-<div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=gishadev&theme=tokyonight&show_icons=true&hide_border=true&count_private=true">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=gishadev&theme=tokyonight&hide_border=true">
 </div>
